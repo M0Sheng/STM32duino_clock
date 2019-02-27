@@ -6,4 +6,4 @@
 接口：I²C、SPI、Serial  
 连接：DS3231、SHT35-D、BMP388使用I²C连接到PB6（SLC）、PB7（SDA），ATGM336H使用Serial（Serial1）连接到PA9（RX）、PA10（TX），OLED使用SPI连接到PB11（D0）,PB10（D1）,PA7（CS）,PB0（DC）,PB1（RES），蜂鸣器使用GPIO（PWM）连接到PA0。  
 ![image](https://wiki.stm32duino.com/images/thumb/a/ae/Bluepillpinout.gif/700px-Bluepillpinout.gif)  
-![image](https://github.com/M0Sheng/STM32duino_clock/blob/master/image/%E9%A2%84%E8%A7%88.png）  
+![image](https://github.com/M0Sheng/STM32duino_clock/blob/master/image/%E9%A2%84%E8%A7%88.png)  
