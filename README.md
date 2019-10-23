@@ -5,5 +5,5 @@
 库里面包含：SlashDevin/NeoGPS（已修改配置）、adafruit/RTClib、Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor、adafruit/Adafruit_BMP3XX、olikraus/u8g2  
 接口：I²C、SPI、Serial  
 连接：DS3231、SHT35-D、BMP388使用I²C连接到PB6（SLC）、PB7（SDA），ATGM336H使用Serial（Serial1）连接到PA9（RX）、PA10（TX），OLED使用SPI连接到PA5（D0）,PA7（D1）,PB1（CS）,PB10（DC）,PB11（RES），蜂鸣器使用GPIO（PWM）连接到PA0。  
-![image](https://wiki.stm32duino.com/images/thumb/a/ae/Bluepillpinout.gif/700px-Bluepillpinout.gif)  
+![image](https://idyl.io/wp-content/uploads/2018/07/stm32f103-pinout-diagram.png)  
 ![image](https://github.com/M0Sheng/STM32duino_clock/blob/master/image/%E9%A2%84%E8%A7%88.png)  
